@@ -1,0 +1,8 @@
+/Users/ilalekomtsev/Downloads/ECM1V.Ec_Lekomtsev_Ilia/First GXP game/GXPEngine/bin/Release/GXPEngine.exe
+/Users/ilalekomtsev/Downloads/ECM1V.Ec_Lekomtsev_Ilia/First GXP game/GXPEngine/obj/x86/Release/GXPEngine.csproj.AssemblyReference.cache
+/Users/ilalekomtsev/Downloads/ECM1V.Ec_Lekomtsev_Ilia/First GXP game/GXPEngine/obj/x86/Release/GXPEngine.csproj.CoreCompileInputs.cache
+/Users/ilalekomtsev/Downloads/ECM1V.Ec_Lekomtsev_Ilia/First GXP game/GXPEngine/obj/x86/Release/GXPEngine.exe
+/Users/ilalekomtsev/Downloads/Lift-Off/First GXP game/GXPEngine/bin/Release/GXPEngine.exe
+/Users/ilalekomtsev/Downloads/Lift-Off/First GXP game/GXPEngine/obj/x86/Release/GXPEngine.csproj.AssemblyReference.cache
+/Users/ilalekomtsev/Downloads/Lift-Off/First GXP game/GXPEngine/obj/x86/Release/GXPEngine.csproj.CoreCompileInputs.cache
+/Users/ilalekomtsev/Downloads/Lift-Off/First GXP game/GXPEngine/obj/x86/Release/GXPEngine.exe
